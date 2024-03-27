@@ -1,0 +1,13 @@
+const prompt = require ("prompt-sync")()
+
+const coe1 = Number (prompt("mostre o coe a"))
+const coe2 = Number (prompt("mostre o coe B"))
+const coe3 = Number (prompt("mostre o coe C"))
+
+
+let resultado = delta=(b**2)-(4*a*c)
+let x1=(-1*b) -(Math.sqrt(delte)) /(2+a)
+let x2=(-1*b + Math.sqrt(delte)) /(2+a)
+
+
+console.log(resultado)

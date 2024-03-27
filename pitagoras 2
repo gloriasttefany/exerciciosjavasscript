@@ -1,0 +1,13 @@
+const prompt = require ("prompt-sync")()
+
+
+let hipo  = Number (prompt("digite o valor do cateto hipotenusa ao quadrado "))
+let cateadj = Number (prompt("digite o valor do cateto adjasente ao quadrado "))
+let cateopst = Number (prompt("digite o valor do cateto oposto ao quadrado "))
+
+let resultado = hipo=(catopos **2 + cateadj **2)**0.5
+
+console.log(resultado)
+
+
+                            

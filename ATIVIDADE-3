@@ -1,0 +1,8 @@
+const prompt = require ("prompt-sync")()
+
+const pi=3.14
+let  num1 = Number (prompt("calcule a area de um circulo raio: "))
+
+let resultado = pi * (num1**2)
+
+console.log(resultado)

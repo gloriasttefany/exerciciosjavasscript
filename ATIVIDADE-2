@@ -1,0 +1,9 @@
+const prompt = require ("prompt-sync")()
+
+l
+let raio = Number (prompt("digite o valor da base do ario: "))
+
+
+let rcirculo =3.14 *raio *raio
+
+console.log(resultado)
